@@ -1,2 +1,3 @@
-# beyondaudit.github.io
-Beyond Smart Contract audit team
+# Beyond Audits
+
+This is the Github website of the Beyond smart contarct auditing team
