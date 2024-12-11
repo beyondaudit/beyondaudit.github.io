@@ -11207,7 +11207,6 @@ body {
   width: 100%;
   height: auto;
   padding: 5rem 0;
-  background: /* linear-gradient(to bottom, rgba(18,18, 24, 0.4) 99%, rgba(18,18, 24, 1) 100% rgba(18,18, 24, 0) 100%), */ url("../assets/img/7951379690780.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11338,4 +11337,3 @@ body {
 .NoUnderline {
   text-decoration: none;
 }
-
